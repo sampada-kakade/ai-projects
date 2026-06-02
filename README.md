@@ -4,14 +4,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shubhamsaboo/">
-    <img src="https://img.shields.io/badge/Follow%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/Saboo_Shubham_">
-    <img src="https://img.shields.io/badge/Follow%20on%20𝕏-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter">
-  </a>
-</p>
 
 <p align="center">
   <!-- Keep these links. Translations will automatically update with the README. -->
@@ -39,13 +31,7 @@ AI Agents · Multi-agent Teams · MCP Agents · RAG · Voice Agents · Agent Ski
 <strong>Works with Claude · Gemini · OpenAI · xAI · Qwen · Llama</strong>
 </p>
 
-<p>
-<a href="https://github.com/Shubhamsaboo/awesome-llm-apps/stargazers"><img src="https://img.shields.io/github/stars/Shubhamsaboo/awesome-llm-apps?style=for-the-badge&logo=github&color=FFD700" alt="Stars"></a>
-<a href="https://github.com/Shubhamsaboo/awesome-llm-apps/network/members"><img src="https://img.shields.io/github/forks/Shubhamsaboo/awesome-llm-apps?style=for-the-badge&logo=github&color=4FC3F7" alt="Forks"></a>
-<a href="https://github.com/Shubhamsaboo/awesome-llm-apps/graphs/contributors"><img src="https://img.shields.io/github/contributors/Shubhamsaboo/awesome-llm-apps?style=for-the-badge&color=22C55E" alt="Contributors"></a>
-<a href="LICENSE"><img src="https://img.shields.io/github/license/Shubhamsaboo/awesome-llm-apps?style=for-the-badge&color=8B5CF6" alt="License"></a>
-<img src="https://img.shields.io/github/last-commit/Shubhamsaboo/awesome-llm-apps?style=for-the-badge&color=F97316" alt="Last Commit">
-</p>
+
 
 <p>
 <a href="#-quick-start"><kbd> &nbsp; 🚀 Quick Start &nbsp; </kbd></a>
@@ -76,16 +62,6 @@ You shouldn't have to rebuild the same RAG pipeline, agent loop, or MCP integrat
 
 > ⭐ **If this saves you time, [star the repo](https://github.com/Shubhamsaboo/awesome-llm-apps/stargazers) - that's how the next developer discovers it.**
 
-## 🚀 Quick Start
-
-Run your first agent in **30 seconds**:
-
-```bash
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-cd awesome-llm-apps/starter_ai_agents/ai_travel_agent
-pip install -r requirements.txt
-streamlit run travel_agent.py
-```
 
 
 ## 🔥 Featured This Month
