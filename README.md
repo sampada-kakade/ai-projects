@@ -72,7 +72,6 @@ You shouldn't have to rebuild the same RAG pipeline, agent loop, or MCP integrat
 - [🚀 Advanced AI Agents](#-advanced-ai-agents)
 - [🎮 Autonomous Game-Playing Agents](#-autonomous-game-playing-agents)
 - [🤝 Multi-agent Teams](#-multi-agent-teams)
-- [🗣️ Voice AI Agents](#️-voice-ai-agents)
 - [♾️ MCP AI Agents](#-mcp-ai-agents)
 - [📀 RAG Tutorials](#-rag-retrieval-augmented-generation)
 - [🧩 Awesome Agent Skills](#-awesome-agent-skills)
