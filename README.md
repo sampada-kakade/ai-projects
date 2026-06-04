@@ -72,7 +72,6 @@ You shouldn't have to rebuild the same RAG pipeline, agent loop, or MCP integrat
 - [🎮 Autonomous Game-Playing Agents](#-autonomous-game-playing-agents)
 - [🤝 Multi-agent Teams](#-multi-agent-teams)
 - [♾️ MCP AI Agents](#-mcp-ai-agents)
-- [🧩 Awesome Agent Skills](#-awesome-agent-skills)
 - [💾 LLM Apps with Memory](#-llm-apps-with-memory-tutorials)
 - [💬 Chat with X Tutorials](#-chat-with-x-tutorials)
 - [🎯 LLM Optimization Tools](#-llm-optimization-tools)
@@ -119,13 +118,6 @@ You shouldn't have to rebuild the same RAG pipeline, agent loop, or MCP integrat
 
 
 
-### 🧩 Awesome Agent Skills
-*Ready-to-use agent skill files you can plug into any AI agent or LLM workflow.*
-
-*   [♾️ Self-Improving Agent Skills](awesome_agent_skills/self-improving-agent-skills/) - Automatically optimize agent skills using Gemini and ADK
-
-<details>
-<summary><strong>📋 Browse all 19 skills</strong></summary>
 
 | Skill | Description |
 |---|---|
