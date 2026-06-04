@@ -111,8 +111,6 @@ You shouldn't have to rebuild the same RAG pipeline, agent loop, or MCP integrat
 *   [🔀 Multi-MCP Agent Router](mcp_ai_agents/multi_mcp_agent_router/)
 
 
-
-
 | Skill | Description |
 |---|---|
 | [🎓 Academic Researcher](awesome_agent_skills/academic-researcher/) | Literature reviews, paper analysis, citation management |
@@ -200,7 +198,7 @@ You shouldn't have to rebuild the same RAG pipeline, agent loop, or MCP integrat
 [![Star History Chart](https://api.star-history.com/svg?repos=Shubhamsaboo/awesome-llm-apps&type=Date)](https://star-history.com/#Shubhamsaboo/awesome-llm-apps&Date)
 
 > 🌟 **Don't miss future drops - [star the repo](https://github.com/Shubhamsaboo/awesome-llm-apps) to get notified when new templates ship.**
-----
+-----------
 ## 📜 License
 
 Apache-2.0. See [LICENSE](LICENSE). Fork it, ship it, sell it.
