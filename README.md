@@ -3,12 +3,6 @@
   Built using FastAPI,Next.js,and OpenAi API.
 </p>
 
-
-
-
-
-
-
 # 🌟 Awesome LLM Apps
 
 <p><strong>100+ AI Agent & RAG apps you can actually run — clone, customize, ship.</strong><br/>
@@ -206,7 +200,7 @@ You shouldn't have to rebuild the same RAG pipeline, agent loop, or MCP integrat
 [![Star History Chart](https://api.star-history.com/svg?repos=Shubhamsaboo/awesome-llm-apps&type=Date)](https://star-history.com/#Shubhamsaboo/awesome-llm-apps&Date)
 
 > 🌟 **Don't miss future drops - [star the repo](https://github.com/Shubhamsaboo/awesome-llm-apps) to get notified when new templates ship.**
-
+----
 ## 📜 License
 
 Apache-2.0. See [LICENSE](LICENSE). Fork it, ship it, sell it.
