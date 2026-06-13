@@ -199,6 +199,4 @@ You shouldn't have to rebuild the same RAG pipeline, agent loop, or MCP integrat
 
 > 🌟 **Don't miss future drops - [star the repo](https://github.com/Shubhamsaboo/awesome-llm-apps) to get notified when new templates ship.**
 -----------
-## 📜 License
 
-Apache-2.0. See [LICENSE](LICENSE). Fork it, ship it, sell it.
